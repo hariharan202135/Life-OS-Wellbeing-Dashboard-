@@ -13,7 +13,7 @@ if not api_key:
 
 client=genai.Client(api_key=api_key)
 
-st.title("📱 Life-OS Wellbeing Dashboard")
+st.title("🌿 Life-OS: AI Wellbeing Dashboard")
 
 st.write("Track your digital habits and receive AI-powered productivity coaching.")  
 
